@@ -1,0 +1,47 @@
+id: PEF0EEAF4
+initial_creation_type: input
+source_metadata:
+  title: Bodhicitta Series
+  language: de
+  description: Texts on the subject of bodhicitta (byang chub sems), which (on the
+    relative level, at least) is the compassionate wish to attain enlightenment for
+    the sake of all living beings—and has been variously translated into English as
+    'thought of enlightenment', 'awakening-mind', 'spirit of awakening', etc.
+  volume:
+    d314a802c4b34ef3b3d625f77285ed71:
+      title: Advice for Tenzin Jamchen
+      parent: Advice
+    27c612767fb140428d56bf4b1a97491d:
+      title: Bodhicitta Aspiration
+      parent: Aspirations
+    2a0c659427234ad7900fba3e4615b471:
+      title: Aspiration to Generate Bodhicitta, Utterly Pure and Supreme
+      parent: Aspirations
+    c2d0152ec634447ca75106cd23d80372:
+      title: An Extensive Commentary on the Four Immeasurables
+      parent: Commentaries
+    15d6ee338deb4f2ca8313b45d2a9e7e7:
+      title: A Brief Commentary on the Refuge & Bodhichitta Prayer known as Sangyé
+        Chö Tsok Ma
+      parent: Commentaries
+    261ab655bbcb48a697162009ac354dd1:
+      title: An Essential Instruction on Refuge and Bodhichitta
+      parent: Commentaries
+    dc66a5154a8149a5a2a9c2d20a2aaace:
+      title: How Our Supreme Teacher Generated Bodhicitta and Other Topics
+      parent: History
+    88798172bcee4fac901bb53faba8e2f0:
+      title: Daily Confession (from the Vajrapañjara Tantra)
+      parent: Practices
+    bd52efcbaa304afea2f3dffefe515bc8:
+      title: The Ritual of the Bodhisattva Vow According to the Tradition of Patrul
+        Rinpoche
+      parent: Practices
+    cb8a0d1fae314dc1a04196b69becc2f0:
+      title: Verses of Refuge and Bodhicitta
+      parent: Practices
+    15541dc590be406bb1bb906f70a02b0d:
+      title: The Three Noble Principles
+      parent: Three Noble Principles
+created_at: '2022-03-01T03:03:50.798298'
+last_modified_at: '2022-03-01T03:03:50.798301'
